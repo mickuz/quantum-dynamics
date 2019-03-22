@@ -1,0 +1,3 @@
+C:/Users/Administrator/CLionProjects/Kwanty/cmake-build-debug/CMakeFiles/Kwanty.dir
+C:/Users/Administrator/CLionProjects/Kwanty/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CLionProjects/Kwanty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
